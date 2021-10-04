@@ -1,0 +1,10 @@
+name: HalfAHeart
+version: 1.0
+author: JavaNameConvention
+api-version: 1.14
+main: com.JavaNameConvention.plugin.plugin
+description: hi
+commands:
+  halfaheart:
+    description: sets max player health to 1
+    usage: /<command>

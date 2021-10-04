@@ -1,0 +1,6 @@
+name: ThornsPlugin
+version: 1.0
+author: JavaNameConvention
+api-version: 1.14
+main: com.JavaNameConvention.plugin.plugin
+description: Every time you hit a an entity you will inflict damage upon yourself

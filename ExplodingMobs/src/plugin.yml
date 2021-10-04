@@ -1,0 +1,5 @@
+name: ExplodingMobs
+version: 1.0
+author: JavaNameConvention
+main: com.JavaNameConvention.explodingMobs.plugin
+description: All mobs have creeper-like properties
