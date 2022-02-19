@@ -1,0 +1,2 @@
+spigot api: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGhaRXBkb1IyZkpQcXMyU2tfQWNRWVN2Q1JMZ3xBQ3Jtc0trOGhEcWpjOFhPdGtHUHo3a0ljd0Rpdi02RFlqRzg5a1FGMS1FX0xGQWwyanRMTlFuSzl6V3MxNmIwY090Qm1MSGV6SGdvUEVvWUdTRXl6RmxtSGxEelQwZXdScTd2elFBbjIyQWJQY0l1OTY2a25HVQ&q=https%3A%2F%2Fhub.spigotmc.org%2Fnexus%2Fcontent%2Frepositories%2Fsnapshots%2Forg%2Fspigotmc%2Fspigot-api%2F
+server run.bat: https://pastebin.com/0nXwzRZs

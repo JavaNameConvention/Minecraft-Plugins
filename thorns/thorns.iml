@@ -9,9 +9,6 @@
       </configuration>
     </facet>
   </component>
-  <component name="McpModuleSettings">
-    <option name="srgType" value="SRG" />
-  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -22,14 +19,11 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Spigot/spigot 1.16.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spigot-api-1.18-rc3-R0.1-20211128.220116-10.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="jar://$USER_HOME$/Documents/Spigot/spigot 1.16.5.jar!/" />
-        </SOURCES>
+        <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="spigot-1.17.1" level="project" />
   </component>
 </module>
