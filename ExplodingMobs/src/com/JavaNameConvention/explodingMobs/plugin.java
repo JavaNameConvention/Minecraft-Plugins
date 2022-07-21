@@ -9,17 +9,19 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDeathEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class plugin extends JavaPlugin implements Listener{
+public class plugin extends JavaPlugin implements Listener {
     public void onEnable() {
 
         getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "[ExplodingMobs] Plugin is enabled");
         getServer().getPluginManager().registerEvents(this, this);
 
     }
+
     public void onDisable() {
         getServer().getConsoleSender().sendMessage(ChatColor.RED + "[ExplodingMobs] Plugin is disabled");
 
     }
+
     @EventHandler
     public void onEntityDeath(EntityDeathEvent event) {
         LivingEntity entity = event.getEntity();
@@ -32,11 +34,11 @@ public class plugin extends JavaPlugin implements Listener{
             double x = entityLocation.getX();
             double y = entityLocation.getY();
             double z = entityLocation.getZ();
-            float power = (float)getConfig().getDouble(configPath + ".power", getConfig().getDouble("defaults.power"));
+            float power = (float) getConfig().getDouble(configPath + ".power", getConfig().getDouble("defaults.power"));
             boolean setFire = getConfig().getBoolean(configPath + ".setFire", getConfig().getBoolean("defaults.setFire"));
             boolean breakBlocks = getConfig().getBoolean(configPath + ".breakBlocks", getConfig().getBoolean("defaults.breakBlocks"));
-                entity.getWorld().createExplosion(x, y, z, power, setFire, breakBlocks);
-            }
+            entity.getWorld().createExplosion(x, y, z, power, setFire, breakBlocks);
         }
     }
+}
 

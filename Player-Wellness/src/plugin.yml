@@ -1,0 +1,15 @@
+author: JavaNameConvention
+version: 1.0
+name: Player-Wellness
+main: com.javanameconvention.playerWellness.main
+api-version: 1.14
+commands:
+  heal:
+    description: Heals player to full health
+    usage: /<command>
+    aliases: h
+
+  feed:
+    description: Sets player hunger to full
+    usage: /<command>
+    aliases: f

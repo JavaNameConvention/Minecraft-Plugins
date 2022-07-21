@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Compass-Tracker/Compass-Tracker.iml" filepath="$PROJECT_DIR$/Compass-Tracker/Compass-Tracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExplodingMobs/ExplodingMobs.iml" filepath="$PROJECT_DIR$/ExplodingMobs/ExplodingMobs.iml" />
       <module fileurl="file://$PROJECT_DIR$/HalfAHeart/HalfAHeart.iml" filepath="$PROJECT_DIR$/HalfAHeart/HalfAHeart.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Minecraft-Plugins.iml" filepath="$PROJECT_DIR$/.idea/Minecraft-Plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Player-Wellness/Player-Wellness.iml" filepath="$PROJECT_DIR$/Player-Wellness/Player-Wellness.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintPlayerIP/PrintPlayerIP.iml" filepath="$PROJECT_DIR$/PrintPlayerIP/PrintPlayerIP.iml" />
       <module fileurl="file://$PROJECT_DIR$/thorns/thorns.iml" filepath="$PROJECT_DIR$/thorns/thorns.iml" />
     </modules>

@@ -1,0 +1,6 @@
+name: GetPlayerIP
+version: 1.0
+api-version: 1.18
+author: JavaNameConvention
+main: com.javanameconvention.printPlayerIP.main
+description: Prints player ip to console when they join

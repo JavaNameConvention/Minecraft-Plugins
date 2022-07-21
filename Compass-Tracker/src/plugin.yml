@@ -1,0 +1,10 @@
+name: PlayerCompassTracker
+author: JavaNameConvention
+api-version: 1.14
+description: Compass player tracker
+main: com.JavaNameConvention.plugin.main
+version: 1.0
+commands:
+  track:
+    description: gives special compass used to track players
+    usage: /track
