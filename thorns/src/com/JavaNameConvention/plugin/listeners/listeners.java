@@ -1,6 +1,5 @@
 package com.JavaNameConvention.plugin.listeners;
 
-import org.bukkit.Bukkit;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

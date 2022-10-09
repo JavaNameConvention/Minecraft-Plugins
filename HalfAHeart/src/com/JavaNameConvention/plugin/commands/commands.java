@@ -1,6 +1,5 @@
 package com.JavaNameConvention.plugin.commands;
 
-import com.mojang.brigadier.exceptions.CommandExceptionType;
 import javafx.print.PageLayout;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;

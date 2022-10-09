@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thorns:jar">
+    <output-path>$PROJECT_DIR$/thorns</output-path>
+    <root id="archive" name="thorns.jar">
+      <element id="module-output" name="thorns" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-api-1.18-rc3-R0.1-20211128.220116-10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

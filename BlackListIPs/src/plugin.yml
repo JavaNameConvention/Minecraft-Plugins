@@ -1,0 +1,5 @@
+name: BlackListIPs
+version: 1.0
+main: com.javanameconvention.blacklistips.Main
+api-version: 1.14
+description: Plugin to check for hostname
