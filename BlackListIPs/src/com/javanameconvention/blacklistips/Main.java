@@ -59,7 +59,7 @@ public class Main extends JavaPlugin implements Listener {
             return;
         }
         Player player = queue.poll();
-        player.kickPlayer(ChatColor.RED + "You are not allowed to join this server using its direct ip, please use the assigned hostname.");
+        player.kickPlayer(ChatColor.RED + "This ip is not allowed on this server!");
         getServer().getConsoleSender().sendMessage(ChatColor.RED + "Player has been kicked for hostname");
     }
     public void fileChecks() throws IOException {
